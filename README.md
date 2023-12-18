@@ -1,16 +1,31 @@
-### Hi there 👋
+### Saudações! 👋
 
-<!--
-**meirad3v/meirad3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 Sou técnico em informática pelo Instituto Federal de Ciências e Tecnologias da Bahia - Campus Jequié. 
+- 🔭 No momento, estou trabalhando com manutenção de software e banco de dados SQL! 🐬
+- 📚 Aprimorando minhas habilidades no desenvolvimento de software diariamente! 
+- ⚡ Fun fact: Sou Vasco da Gama, meu bem! 💢
+ 
+  <a href="https://github.com/meirad3v">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=meirad3v&show_icons=true&theme=tokyonight&border_radius=5.5&rank_icon=github"/>
+  </a>
+  <a href="https://github.com/meirad3v">
+  <img height="200" width = "430" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirad3v&layout=compact&hide_progress=true&theme=tokyonight"/>
+  </a>
+  <div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+  <img align="right" height="50" width="60" src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif">
+  </div>
+  
+  
+  
+<div>
+  <br>
+  <a href="https://instagram.com/dudiivs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:eduardo0ws.m@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
