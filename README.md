@@ -9,7 +9,7 @@
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=meirad3v&show_icons=true&theme=tokyonight&border_radius=5.5&rank_icon=github"/>
   </a>
   <a href="https://github.com/meirad3v">
-  <img height="200" width = "430" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirad3v&layout=compact&hide_progress=true&theme=tokyonight"/>
+  <img height="200" width = "400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meirad3v&layout=compact&hide_progress=true&theme=tokyonight"/>
   </a>
   <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"">
