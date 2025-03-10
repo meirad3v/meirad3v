@@ -1,7 +1,7 @@
 ### Saudações! 👋
 
 - 👨‍🎓 Sou técnico em informática pelo Instituto Federal de Ciências e Tecnologias da Bahia - Campus Jequié. 
-- 🔭 No momento, estou trabalhando com manutenção de software e banco de dados SQL! 🐬
+- 🔭 No momento, estou fazendo bacharelado em Sistemas ded Informação na UESB - Universidade Estadual do Sudoeste da Bahia.
 - 📚 Aprimorando minhas habilidades no desenvolvimento de software diariamente! 
 - ⚡ Fun fact: Sou Vasco da Gama, meu bem! 💢
  
